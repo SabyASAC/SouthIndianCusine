@@ -29,7 +29,7 @@ p {
 
 <a href=".................">BananaLeaf</a>
 
-<a href="......................">Vango</a>
+<a href="https://sabyasac.github.io/Vango/">Vango</a>
 
 </body>
 

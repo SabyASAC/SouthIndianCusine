@@ -25,9 +25,8 @@ p {
 
 <p> Welcome to the South Indian Cuisine Page </p> 
 
-<h5> CLick the following links to get redirected to the original websites </h5> 
+<h5> CLick the following links to get redirected to the websites </h5> 
 
-<a href=".................">BananaLeaf</a>
 
 <a href="https://sabyasac.github.io/Vango/">Vango</a>
 
